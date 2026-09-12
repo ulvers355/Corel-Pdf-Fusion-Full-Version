@@ -238,3 +238,6 @@ This repository serves as the official landing page for Corel PDF Fusion. The so
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Corel PDF Fusion today!**
+
+---
+**Last updated:** 2026-09-12 11:59:05 UTC
