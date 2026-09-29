@@ -240,4 +240,4 @@ This repository serves as the official landing page for Corel PDF Fusion. The so
 **Get the most recent version of Corel PDF Fusion today!**
 
 ---
-**Last updated:** 2026-09-28 23:44:34 UTC
+**Last updated:** 2026-09-29 04:31:55 UTC
